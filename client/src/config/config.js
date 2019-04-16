@@ -1,4 +1,4 @@
-let server = 'https://gbooks-search.herokuapp.com';
+let server = 'https://obscure-lake-48428.herokuapp.com/';
 
 const env = process.env.NODE_ENV;
 
