@@ -1,0 +1,13 @@
+.card {
+    background-color: #F8F8F8;
+    border: 2px darkgray solid;
+    margin-bottom: 20px;
+}
+
+button {
+    margin: 5px;
+}
+
+#title {
+    font-size: 25px;
+}
